@@ -1,0 +1,1060 @@
+{
+	"folder_history":
+	[
+	],
+	"last_window_id": 2,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"contig",
+						"contigSetDataResult"
+					],
+					[
+						"contigse",
+						"contigSetId"
+					],
+					[
+						"con",
+						"contigSetInstance"
+					],
+					[
+						"st",
+						"start"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"to",
+						"Toggle Comment"
+					],
+					[
+						"comm",
+						"Toggle Comment"
+					],
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"fold",
+						"Code Folding: Unfold All"
+					],
+					[
+						"sft",
+						"SFTP: Browse Server…"
+					],
+					[
+						"bra",
+						"Bracket Highlighter: Select Bracket Content"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"s",
+						"SFTP: Setup Server…"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Open..."
+					],
+					[
+						"fol",
+						"Code Folding: Unfold All"
+					],
+					[
+						"syhtl",
+						"Set Syntax: HTML"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/martin/Dropbox/code/AfterParty/grails-app/controllers/afterparty/ContigController.groovy",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/study/show.gsp",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/domain/afterparty/Contig.groovy",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/contigSet/_contigTable.gsp",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/controllers/afterparty/StudyController.groovy",
+				"/home/martin/Dropbox/code/AfterParty/.gitignore",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/conf/BootStrap.groovy",
+				"/tmp/sublime-sftp-browse-1337760916/redrowstudio/var/www/redrowstudio/tools/treasury_page.php",
+				"/home/martin/.config/sublime-text-2/Packages/User/sftp_servers/redrowstudio",
+				"/tmp/sublime-sftp-browse-1337760257/redrowstudio/var/www/hellensmathsadventure/index.html",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/contig/show.gsp",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/assembly/show.gsp",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/contigSet/._searchForm.swp",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/contigSet/_searchForm.gsp"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/martin/Dropbox/code/AfterParty/grails-app/",
+					"/home/martin/Dropbox/code/AfterParty/grails-app/controllers"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" = []",
+					"new sql",
+					"sql",
+					"fetchmode",
+					"joinmode",
+					"built map",
+					"_search",
+					"resource"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.sftp":
+			{
+				"height": 112.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"statis",
+						"grails-app/services/afterparty/StatisticsService.groovy"
+					],
+					[
+						"conti",
+						"grails-app/domain/afterparty/Contig.groovy"
+					],
+					[
+						"contig",
+						"grails-app/domain/afterparty/Contig.groovy"
+					],
+					[
+						"stat",
+						"grails-app/services/afterparty/StatisticsService.groovy"
+					],
+					[
+						"_",
+						"grails-app/views/contigSet/_contigTable.gsp"
+					],
+					[
+						"_co",
+						"grails-app/views/contigSet/_contigTable.gsp"
+					],
+					[
+						"contigset",
+						"grails-app/controllers/afterparty/ContigSetController.groovy"
+					],
+					[
+						"contigsetco",
+						"grails-app/controllers/afterparty/ContigSetController.groovy"
+					],
+					[
+						"cont",
+						"grails-app/domain/afterparty/Contig.groovy"
+					],
+					[
+						"_con",
+						"grails-app/views/contigSet/_contigTable.gsp"
+					],
+					[
+						"conf",
+						"grails-app/conf/Config.groovy"
+					],
+					[
+						"compare",
+						"grails-app/views/contigSet/compareContigSets.gsp"
+					],
+					[
+						"contisetcon",
+						"grails-app/controllers/afterparty/ContigSetController.groovy"
+					],
+					[
+						"contico",
+						"grails-app/controllers/afterparty/ContigController.groovy"
+					],
+					[
+						"appljs",
+						"web-app/js/application.js"
+					],
+					[
+						"studshow",
+						"grails-app/views/study/show.gsp"
+					],
+					[
+						"show.gsp",
+						"grails-app/views/assembly/show.gsp"
+					],
+					[
+						"_se",
+						"grails-app/views/contigSet/_searchForm.gsp"
+					],
+					[
+						"contshow",
+						"grails-app/views/contigSet/._searchForm.swp"
+					],
+					[
+						"contishow",
+						"grails-app/views/contig/show.gsp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 340.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"contig",
+						"contigSetDataResult"
+					],
+					[
+						"contigse",
+						"contigSetId"
+					],
+					[
+						"con",
+						"contigSetInstance"
+					],
+					[
+						"st",
+						"start"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "AfterParty/grails-app/conf/Config.groovy",
+					"settings":
+					{
+						"buffer_size": 4688,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "AfterParty/grails-app/views/contig/show.gsp",
+					"settings":
+					{
+						"buffer_size": 10211,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "AfterParty/grails-app/services/afterparty/StatisticsService.groovy",
+					"settings":
+					{
+						"buffer_size": 10541,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\nfunction showSearchBox() {\n    $('.doSomethingButton').slideUp('slow');\n    $('#searchForm').slideDown('slow');\n    return false;\n}\n\nfunction showBLASTBox() {\n    $('.doSomethingButton').slideUp('slow');\n    $('#blastForm').slideDown('slow');\n    return false;\n}\n\nfunction submitSearchForm() {\n    $('#contigSetForm').attr('action', '/contigSet/searchContigSets');\n}\nfunction submitBLASTForm() {\n    $('#contigSetForm').attr('action', '/contigSet/blastAgainstContigSets');\n}\nfunction submitCompare() {\n    $('#contigSetForm').attr('action', '/contigSet/compareContigSets');\n}\n\n\nfunction doCreate(idList, studyId) {\n    var name = prompt(\"Enter a name for the new contig set\", \"\");\n    $.post(\n            'createContigSetAJAX',\n            {\n                idList : idList.join(','),\n                studyId : studyId,\n                setName: name\n            },\n            function(data) {\n                window.location = '../contigSet/compareContigSets/?idList=  ' + data;  // redirect to view the new contig set\n            }\n    );\n}\n\n\n// function to periodically update the progress of jobs running in the background\nfunction updateJobStatus() {\n\n    // make the http request to get the job info\n    jQuery.ajax({\n        type:'POST',\n        url:'/backgroundJob/listAjax',\n        success:function(data, textStatus) {\n            // on success, update the joblist div\n            jQuery('#jobList').html(data);\n            //see if we have any jobs still running by checking for the existence of an element with the class runningJob\n            if ($('.runningJob').length > 0) {\n                //if we still have running jobs, set a timeout to check again in 3 seconds\n                t = setTimeout(\"updateJobStatus()\", 1000);\n            }\n        },\n        // on error, don't do anything\n        error:function(XMLHttpRequest, textStatus, errorThrown) {\n        }\n    });\n}\n\n\nfunction setUpEditInPlace(domainId, updateUrl, className) {\n// loop through each element that has the class 'edit_in_place'\n    $(\".edit_in_place\").each(function(index) {\n//                run the editInPlace() method on it\n        $(this).editInPlace({\n            textarea_cols : 100,\n            textarea_rows: 1,\n            text_size:5,\n//                    the url will always be the same\n            url: updateUrl,\n//                    construct the parameters by grabbing the name attribute of the element (for the property name) and the id\n            params: \"className=\" + className + \"&fieldName=\" + $(this).attr('name') + \"&id=\" + domainId\n\n        });\n    });\n\n}\n\n$(document).ready(function() {\n\n    // simple example, using all default options\n//    $('div.expandable p').expander();\n\n    // all stuff from adminus\n    // Preload images\n    $.preloadCssImages();\n\n\n    // CSS tweaks\n    $('#header #nav li:last').addClass('nobg');\n    $('.block_head ul').each(function() {\n        $('li:first', this).addClass('nobg');\n    });\n    $('.block form input[type=file]').addClass('file');\n\n\n    // Web stats\n    $('table.stats').each(function() {\n\n        if ($(this).attr('rel')) {\n            var statsType = $(this).attr('rel');\n        } else {\n            var statsType = 'area';\n        }\n\n        var chart_width = ($(this).parent('div').width()) - 60;\n\n\n        if (statsType == 'line' || statsType == 'pie') {\n            $(this).hide().visualize({\n                type: statsType,    // 'bar', 'area', 'pie', 'line'\n                width: chart_width,\n                height: '240px',\n                colors: ['#6fb9e8', '#ec8526', '#9dc453', '#ddd74c'],\n\n                lineDots: 'double',\n                interaction: true,\n                multiHover: 5,\n                tooltip: true,\n                tooltiphtml: function(data) {\n                    var html = '';\n                    for (var i = 0; i < data.point.length; i++) {\n                        html += '<p class=\"chart_tooltip\"><strong>' + data.point[i].value + '</strong> ' + data.point[i].yLabels[0] + '</p>';\n                    }\n                    return html;\n                }\n            });\n        } else {\n            $(this).hide().visualize({\n                type: statsType,    // 'bar', 'area', 'pie', 'line'\n                width: chart_width,\n                height: '240px',\n                colors: ['#6fb9e8', '#ec8526', '#9dc453', '#ddd74c']\n            });\n        }\n    });\n\n\n    // Sort table\n//    $(\"table.sortable\").tablesorter({\n//        headers: { 0: { sorter: false}, 5: {sorter: false} },        // Disabled on the 1st and 6th columns\n//        widgets: ['zebra']\n//    });\n//\n//    $('.block table tr th.header').css('cursor', 'pointer');\n\n\n    // Check / uncheck all checkboxes\n    $('.check_all').click(function() {\n        $(this).parents('form').find('input:checkbox').attr('checked', $(this).is(':checked'));\n    });\n\n\n    // Set WYSIWYG editor\n//    $('.wysiwyg').wysiwyg({css: \"css/wysiwyg.css\", brIE: false });\n\n\n    // Modal boxes - to all links with rel=\"facebox\"\n//    $('a[rel*=facebox]').facebox()\n\n\n    // Messages\n    $('.message').hide().append('<span class=\"close\" title=\"Dismiss\"></span>').fadeIn('slow');\n    $('.message .close').hover(\n            function() {\n                $(this).addClass('hover');\n            },\n            function() {\n                $(this).removeClass('hover');\n            }\n    );\n\n    $('.message .close').click(function() {\n        $(this).parent().fadeOut('slow', function() {\n            $(this).remove();\n        });\n    });\n\n\n    // Form select styling\n    $(\"form select.styled\").select_skin();\n\n\n    // Tabs\n    $(\".tab_content\").hide();\n    $(\"ul.tabs li:first-child\").addClass(\"active\").show();\n    $(\".block\").find(\".tab_content:first\").show();\n\n    $(\"ul.tabs li\").click(function() {\n        $(this).parent().find('li').removeClass(\"active\");\n        $(this).addClass(\"active\");\n        $(this).parents('.block').find(\".tab_content\").hide();\n\n        var activeTab = $(this).find(\"a\").attr(\"href\");\n        $(activeTab).show();\n\n        // refresh visualize for IE\n        $(activeTab).find('.visualize').trigger('visualizeRefresh');\n\n        return false;\n    });\n\n\n    // Sidebar Tabs\n    $(\".sidebar_content\").hide();\n\n    if (window.location.hash && window.location.hash.match('sb')) {\n\n        $(\"ul.sidemenu li a[href=\" + window.location.hash + \"]\").parent().addClass(\"active\").show();\n        $(\".block .sidebar_content#\" + window.location.hash).show();\n    } else {\n\n        $(\"ul.sidemenu li:first-child\").addClass(\"active\").show();\n        $(\".block .sidebar_content:first\").show();\n    }\n\n    $(\"ul.sidemenu li\").click(function() {\n\n        var activeTab = $(this).find(\"a\").attr(\"href\");\n        window.location.hash = activeTab;\n\n        $(this).parent().find('li').removeClass(\"active\");\n        $(this).addClass(\"active\");\n        $(this).parents('.block').find(\".sidebar_content\").hide();\n        $(activeTab).show();\n        return false;\n    });\n\n\n    // Block search\n    $('.block .block_head form .text').bind('click', function() {\n        $(this).attr('value', '');\n    });\n\n\n    // Image actions menu\n    $('ul.imglist li').hover(\n            function() {\n                $(this).find('ul').css('display', 'none').fadeIn('fast').css('display', 'block');\n            },\n            function() {\n                $(this).find('ul').fadeOut(100);\n            }\n    );\n\n\n    // Image delete confirmation\n    $('ul.imglist .delete a').click(function() {\n        if (confirm(\"Are you sure you want to delete this image?\")) {\n            return true;\n        } else {\n            return false;\n        }\n    });\n\n\n    // Style file input\n    $(\"input[type=file]\").filestyle({\n        image: \"/images/upload.gif\",\n        imageheight : 30,\n        imagewidth : 80,\n        width : 250\n    });\n\n\n    // File upload\n    if ($('#fileupload').length) {\n        new AjaxUpload('fileupload', {\n            action: 'upload-handler.php',\n            autoSubmit: true,\n            name: 'userfile',\n            responseType: 'text/html',\n            onSubmit : function(file, ext) {\n                $('.fileupload #uploadmsg').addClass('loading').text('Uploading...');\n                this.disable();\n            },\n            onComplete : function(file, response) {\n                $('.fileupload #uploadmsg').removeClass('loading').text(response);\n                this.enable();\n            }\n        });\n    }\n\n\n    // Date picker\n//    $('input.date_picker').date_input();\n\n\n    // Navigation dropdown fix for IE6\n    if (jQuery.browser.version.substr(0, 1) < 7) {\n        $('#header #nav li').hover(\n                function() {\n                    $(this).addClass('iehover');\n                },\n                function() {\n                    $(this).removeClass('iehover');\n                }\n        );\n    }\n\n\n    // IE6 PNG fix\n//    $(document).pngFix();\n\n});",
+					"file": "AfterParty/web-app/js/application.js",
+					"file_size": 8853,
+					"file_write_time": 1334765416000000,
+					"settings":
+					{
+						"buffer_size": 8853,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "AfterParty/grails-app/controllers/afterparty/ContigSetController.groovy",
+					"settings":
+					{
+						"buffer_size": 11156,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "AfterParty/grails-app/services/afterparty/SearchService.groovy",
+					"settings":
+					{
+						"buffer_size": 2032,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "AfterParty/grails-app/views/contigSet/compareContigSets.gsp",
+					"settings":
+					{
+						"buffer_size": 14511,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "AfterParty/grails-app/views/contigSet/_searchForm.gsp",
+					"settings":
+					{
+						"buffer_size": 2300,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "AfterParty/.gitignore",
+					"settings":
+					{
+						"buffer_size": 542,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 138.0,
+				"selected_items":
+				[
+					[
+						"gitcom",
+						"Git: Commit"
+					],
+					[
+						"side",
+						"View: Toggle Side Bar"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Git: Reset (unstage) Current File"
+					],
+					[
+						"to",
+						"Toggle Comment"
+					],
+					[
+						"comm",
+						"Toggle Comment"
+					],
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"fold",
+						"Code Folding: Unfold All"
+					],
+					[
+						"sft",
+						"SFTP: Browse Server…"
+					],
+					[
+						"bra",
+						"Bracket Highlighter: Select Bracket Content"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"s",
+						"SFTP: Setup Server…"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Open..."
+					],
+					[
+						"fol",
+						"Code Folding: Unfold All"
+					],
+					[
+						"syhtl",
+						"Set Syntax: HTML"
+					]
+				],
+				"width": 629.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/martin/Dropbox/code/AfterParty/grails-app/controllers/afterparty/ContigController.groovy",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/study/show.gsp",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/domain/afterparty/Contig.groovy",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/contigSet/_contigTable.gsp",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/controllers/afterparty/StudyController.groovy",
+				"/home/martin/Dropbox/code/AfterParty/.gitignore",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/conf/BootStrap.groovy",
+				"/tmp/sublime-sftp-browse-1337760916/redrowstudio/var/www/redrowstudio/tools/treasury_page.php",
+				"/home/martin/.config/sublime-text-2/Packages/User/sftp_servers/redrowstudio",
+				"/tmp/sublime-sftp-browse-1337760257/redrowstudio/var/www/hellensmathsadventure/index.html",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/contig/show.gsp",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/assembly/show.gsp",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/contigSet/._searchForm.swp",
+				"/home/martin/Dropbox/code/AfterParty/grails-app/views/contigSet/_searchForm.gsp"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/martin/Dropbox/code/AfterParty/grails-app/",
+					"/home/martin/Dropbox/code/AfterParty/grails-app/controllers"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" = []",
+					"new sql",
+					"sql",
+					"fetchmode",
+					"joinmode",
+					"built map",
+					"_search",
+					"resource"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 8,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "AfterParty/grails-app/conf/Config.groovy",
+							"settings":
+							{
+								"buffer_size": 4688,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Groovy/Groovy.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "AfterParty/grails-app/views/contig/show.gsp",
+							"settings":
+							{
+								"buffer_size": 10211,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1406,
+										1406
+									]
+								],
+								"settings":
+								{
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "AfterParty/grails-app/services/afterparty/StatisticsService.groovy",
+							"settings":
+							{
+								"buffer_size": 10541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9496,
+										9496
+									]
+								],
+								"settings":
+								{
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Groovy/Groovy.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4576.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "AfterParty/web-app/js/application.js",
+							"settings":
+							{
+								"buffer_size": 8853,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "AfterParty/grails-app/controllers/afterparty/ContigSetController.groovy",
+							"settings":
+							{
+								"buffer_size": 11156,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7958,
+										7958
+									]
+								],
+								"settings":
+								{
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Groovy/Groovy.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3366.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "AfterParty/grails-app/services/afterparty/SearchService.groovy",
+							"settings":
+							{
+								"buffer_size": 2032,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										75,
+										75
+									]
+								],
+								"settings":
+								{
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Groovy/Groovy.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "AfterParty/grails-app/views/contigSet/compareContigSets.gsp",
+							"settings":
+							{
+								"buffer_size": 14511,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5214,
+										5214
+									]
+								],
+								"settings":
+								{
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1480.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "AfterParty/grails-app/views/contigSet/_searchForm.gsp",
+							"settings":
+							{
+								"buffer_size": 2300,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "AfterParty/.gitignore",
+							"settings":
+							{
+								"buffer_size": 542,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										542,
+										542
+									]
+								],
+								"settings":
+								{
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "AfterParty/grails-app/services/afterparty/StatisticsService.groovy",
+							"settings":
+							{
+								"buffer_size": 10541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5821,
+										5821
+									]
+								],
+								"settings":
+								{
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Groovy/Groovy.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4701.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 112.0
+			},
+			"output.sftp":
+			{
+				"height": 112.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						"statis",
+						"grails-app/services/afterparty/StatisticsService.groovy"
+					],
+					[
+						"conti",
+						"grails-app/domain/afterparty/Contig.groovy"
+					],
+					[
+						"contig",
+						"grails-app/domain/afterparty/Contig.groovy"
+					],
+					[
+						"stat",
+						"grails-app/services/afterparty/StatisticsService.groovy"
+					],
+					[
+						"_",
+						"grails-app/views/contigSet/_contigTable.gsp"
+					],
+					[
+						"_co",
+						"grails-app/views/contigSet/_contigTable.gsp"
+					],
+					[
+						"contigset",
+						"grails-app/controllers/afterparty/ContigSetController.groovy"
+					],
+					[
+						"contigsetco",
+						"grails-app/controllers/afterparty/ContigSetController.groovy"
+					],
+					[
+						"cont",
+						"grails-app/domain/afterparty/Contig.groovy"
+					],
+					[
+						"_con",
+						"grails-app/views/contigSet/_contigTable.gsp"
+					],
+					[
+						"conf",
+						"grails-app/conf/Config.groovy"
+					],
+					[
+						"compare",
+						"grails-app/views/contigSet/compareContigSets.gsp"
+					],
+					[
+						"contisetcon",
+						"grails-app/controllers/afterparty/ContigSetController.groovy"
+					],
+					[
+						"contico",
+						"grails-app/controllers/afterparty/ContigController.groovy"
+					],
+					[
+						"appljs",
+						"web-app/js/application.js"
+					],
+					[
+						"studshow",
+						"grails-app/views/study/show.gsp"
+					],
+					[
+						"show.gsp",
+						"grails-app/views/assembly/show.gsp"
+					],
+					[
+						"_se",
+						"grails-app/views/contigSet/_searchForm.gsp"
+					],
+					[
+						"contshow",
+						"grails-app/views/contigSet/._searchForm.swp"
+					],
+					[
+						"contishow",
+						"grails-app/views/contig/show.gsp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 340.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": "/home/martin/Dropbox/code/afterparty.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/martin/Dropbox/code/afterparty.sublime-project"
+		]
+	}
+}
