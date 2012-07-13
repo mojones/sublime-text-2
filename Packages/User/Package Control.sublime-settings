@@ -1,12 +1,16 @@
 {
-	"auto_upgrade_last_run": 1337770768,
+	"auto_upgrade_last_run": 1341930943,
 	"installed_packages":
 	[
 		"BracketHighlighter",
 		"Git",
 		"jQuery",
 		"Package Control",
+		"Paste as Column",
+		"PythonTidy",
 		"SFTP",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"SublimePeek",
+		"SublimeREPL"
 	]
 }

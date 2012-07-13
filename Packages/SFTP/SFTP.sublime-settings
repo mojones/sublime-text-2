@@ -10,6 +10,11 @@
 	// intensive operation, especially since the OS has a filesystem cache
 	"monitoring_frequency": 200,
 
+	// Number of milliseconds to wait after a file change is detected before
+	// starting the upload. This can help if the old version of a file is
+	// being uploaded.
+	"monitoring_upload_delay": 500,
+
 	// If you want to use ftps on Linux you need the ssl module, which does
 	// not come included with Sublime due to compatiblity issues. I've compiled
 	// different ssl modules for both 32bit and 64bit and included them.
